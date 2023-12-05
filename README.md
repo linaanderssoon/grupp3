@@ -1,4 +1,4 @@
-# grupp3
+# grupp3 Alliansen / Alliance
 hellå
 
 A game webapp made for mobile - like Geocaching there are multiple puzzels across Malmö City where an alien invasion is inevitable.
